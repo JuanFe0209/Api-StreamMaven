@@ -1,0 +1,25 @@
+{
+  "id": 1,
+  "status": "Pending",
+  "orderDate": "2023-08-11",
+  "deliveryDate": "2023-08-14",
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "category": "Category 1",
+      "price": 50.0
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "category": "Category 2",
+      "price": 30.0
+    }
+  ],
+  "customer": {
+    "id": 1,
+    "name": "Customer 1",
+    "tier": "Tier 1"
+  }
+}
